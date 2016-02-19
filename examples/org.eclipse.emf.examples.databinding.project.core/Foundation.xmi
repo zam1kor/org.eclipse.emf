@@ -17,4 +17,4 @@
   <persons lastname="Hussey" firstname="Kenn"/>
   <persons lastname="Reynolds" firstname="Brad" committerships="//@projects.1/@committers.0"/>
   <persons lastname="Schindl" firstname="Tom" email="tom.schindl@bestsolution.at" committerships="//@projects.1/@subprojects.0/@committers.0"/>
-</project:Foundation>
+</project:Foundation> 
